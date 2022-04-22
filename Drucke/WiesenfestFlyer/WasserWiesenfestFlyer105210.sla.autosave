@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.6">
+    <DOCUMENT ANZPAGES="2" PAGEWIDTH="314.645669291339" PAGEHEIGHT="612.283464566929" BORDERLEFT="8.50393700787402" BORDERRIGHT="8.50393700787402" BORDERTOP="8.50393700787402" BORDERBOTTOM="8.50393700787402" PRESET="0" BleedTop="8.50110236220473" BleedLeft="8.50110236220473" BleedRight="8.50110236220473" BleedBottom="8.50110236220473" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="1" DPSo="1" DPSFo="1" DPuse="1" DPgam="0" DPbla="1" DPMo="sRGB IEC61966-2.1" DPPr="ISO Coated v2 300% (ECI)" DPIn="sRGB IEC61966-2.1" DPInCMYK="ISO Coated v2 300% (ECI)" DPIn2="sRGB IEC61966-2.1" DPIn3="ISO Coated v2 300% (ECI)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.155" dispY="0.155" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="A305" RGB="#2e3436" Spot="1" Register="0"/>
+        <COLOR NAME="BannerRite Schwarz" RGB="#513529" Spot="1" Register="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Gray 80%" CMYK="#000000e5" Spot="0" Register="0"/>
+        <COLOR NAME="Gray 85%" CMYK="#000000f2" Spot="0" Register="0"/>
+        <COLOR NAME="Gray 99%" CMYK="#000000fa" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Green90%" CMYK="#ff00ffe5" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-16578026" PDLanguage="-16578026" markOffset="-6.87925266116064e+303" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="Infotext" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="0" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Subset Name="Arial Bold"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Bastion Regular"/>
+            <Subset Name="Emmett Regular"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="1" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="314.645669291339" PAGEHEIGHT="612.283464566929" BORDERLEFT="8.50393700787402" BORDERRIGHT="8.50393700787402" BORDERTOP="8.50393700787402" BORDERBOTTOM="8.50393700787402" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="314.645669291339" PAGEHEIGHT="612.283464566929" BORDERLEFT="8.50393700787402" BORDERRIGHT="8.50393700787402" BORDERTOP="8.50393700787402" BORDERBOTTOM="8.50393700787402" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="672.284409448819" PAGEWIDTH="314.645669291339" PAGEHEIGHT="612.283464566929" BORDERLEFT="8.50393700787402" BORDERRIGHT="8.50393700787402" BORDERTOP="8.50393700787402" BORDERBOTTOM="8.50393700787402" NUM="1" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="111.075817891185" YPOS="681.534779468356" WIDTH="295.06654431354" HEIGHT="590.694511870227" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 295.067 0 295.067 0 295.067 0 295.067 0 295.067 590.695 295.067 590.695 295.067 590.695 295.067 590.695 0 590.695 0 590.695 0 590.695 0 590.695 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 295.067 0 295.067 0 295.067 0 295.067 0 295.067 590.695 295.067 590.695 295.067 590.695 295.067 590.695 0 590.695 0 590.695 0 590.695 0 590.695 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Arial Bold" CH="Es gibt Grund zum Feiern!"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONTSIZE="11" CH="Die traditionelle "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Bewässerung"/>
+            <ITEXT FONTSIZE="11" CH=" der "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Wiesen"/>
+            <ITEXT FONTSIZE="11" CH=" in Franken wurde in das bundesdeutsche Verzeichnis als Immaterielles Kulturerbe der "/>
+            <ITEXT FONT="Arial Regular" FONTSIZE="11" CH="UNESCO"/>
+            <ITEXT FONTSIZE="11" CH=" aufgenommen. "/>
+            <para ALIGN="3" LINESP="14"/>
+            <para ALIGN="3" LINESP="14"/>
+            <ITEXT FONTSIZE="11" CH="Welche Bedeutung dieses "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Bewässerungssystem"/>
+            <ITEXT FONTSIZE="11" CH=" für die "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Anwohner"/>
+            <ITEXT FONTSIZE="11" CH=" im Rednitzgrund, die "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Landwirte"/>
+            <ITEXT FONTSIZE="11" CH=" und die Artenvielfalt von "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Flora &amp; Fauna"/>
+            <ITEXT FONTSIZE="11" CH=" hat, darüber wollen wir Sie auf dem Fest informieren. "/>
+            <para ALIGN="3" LINESP="14"/>
+            <para ALIGN="3" LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Programm am 07.05.2022:"/>
+            <para ALIGN="0" LINESPMode="2" LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONTSIZE="11" CH="Eröffnung durch den Kindergartenchor"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="11:00 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Begrüßung der Gäste "/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="11:10 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Impulsvortrag Herr J. Mohr (Dipl.-Biologe)"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="11:30 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Urkundenübergabe an die "/>
+            <tab FONTSIZE="11"/>
+            <tab FONTSIZE="11"/>
+            <tab FONTSIZE="11"/>
+            <tab FONTSIZE="11"/>
+            <ITEXT FONTSIZE="11" CH="        Oberbürgermeister von Nürnberg und"/>
+            <breakline/>
+            <ITEXT FONTSIZE="11" CH="                    Schwabach"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="11:40 Uhr "/>
+            <ITEXT FONTSIZE="11" CH="- Grußworte OBM Nürnberg und   "/>
+            <tab FONTSIZE="11"/>
+            <ITEXT FONTSIZE="11" CH="   "/>
+            <breakline/>
+            <ITEXT FONTSIZE="11" CH="                    Schwabach"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="12:00 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Podiumsdiskussion zum Thema "/>
+            <tab FONTSIZE="11"/>
+            <tab FONTSIZE="11"/>
+            <tab FONTSIZE="11"/>
+            <ITEXT FONTSIZE="11" CH="        Wässerwiesen mit Vertretern aus Politik"/>
+            <breakline/>
+            <ITEXT FONTSIZE="11" CH="                    und Gesellschaft"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="13:00 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Beginn der Führungen"/>
+            <para LINESP="14"/>
+            <tab FONTSIZE="11"/>
+            <ITEXT FONTSIZE="11" CH="        Zusätzliche Führungen für Kinder am"/>
+            <breakline/>
+            <ITEXT FONTSIZE="11" CH="                    Vormittag."/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="15:00 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Prämierung der Kinderbilder"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="15.30 Uhr"/>
+            <ITEXT FONTSIZE="11" CH=" - Ausklang "/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Für ihr leibliches Wohl ist bestens gesorgt."/>
+            <breakline/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="11" CH="Traktorparcour für die Kleinen."/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" CH="Weiterhin gibt es Informationsstände: "/>
+            <breakline/>
+            <ITEXT FONTSIZE="10" CH="Bauernverband  Nürnberg-Stadt, BI Allianz, FFW Katzwang, Stadt Nürnberg untere Naturschutzbehörde"/>
+            <ITEXT CH=", "/>
+            <ITEXT FONTSIZE="10" CH="Wasserwirtschaftsamt Nürnberg "/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <para LINESP="14"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="9" CH="Veranstalter"/>
+            <ITEXT FONTSIZE="9" CH=": Bauernverband  Nürnberg-Stadt, "/>
+            <breakline/>
+            <ITEXT FONTSIZE="9" CH="Ratsbergstrasse 8 90411 Nürnberg"/>
+            <trail LINESP="14"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="99.3785826771651" YPOS="392.25125984252" WIDTH="319.018663785447" HEIGHT="240.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.311541663852976" LOCALSCY="0.311541663852976" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="1634844544919-516928430.jpg" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0.1" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 319.019 0 319.019 0 319.019 0 319.019 0 319.019 240.5 319.019 240.5 319.019 240.5 319.019 240.5 0 240.5 0 240.5 0 240.5 0 240.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 319.019 0 319.019 0 319.019 0 319.019 0 319.019 240.5 319.019 240.5 319.019 240.5 319.019 240.5 0 240.5 0 240.5 0 240.5 0 240.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="99.2506299212596" YPOS="152.902165499083" WIDTH="319.146616541353" HEIGHT="243.349094343437" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.311666617716165" LOCALSCY="0.311666617716165" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="DSCF2816-1024x768 (1).jpg" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 319.147 0 319.147 0 319.147 0 319.147 0 319.147 243.349 319.147 243.349 319.147 243.349 319.147 243.349 0 243.349 0 243.349 0 243.349 0 243.349 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 319.147 0 319.147 0 319.147 0 319.147 0 319.147 243.349 319.147 243.349 319.147 243.349 319.147 243.349 0 243.349 0 243.349 0 243.349 0 243.349 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="201.843060862689" YPOS="366.238190704553" WIDTH="148.452333183859" HEIGHT="141.439605797983" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="16.9565732356328" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.158209849885887" LOCALSCY="0.158209849885887" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img-20211004-wa0000-e16342111374852.png" PFILE2="" PFILE3="" PRFILE="sRGB IEC61966-2.1" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 148.452 0 148.452 0 148.452 0 148.452 0 148.452 141.44 148.452 141.44 148.452 141.44 148.452 141.44 0 141.44 0 141.44 0 141.44 0 141.44 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 148.452 0 148.452 0 148.452 0 148.452 0 148.452 141.44 148.452 141.44 148.452 141.44 148.452 141.44 0 141.44 0 141.44 0 141.44 0 141.44 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="117.75062992126" YPOS="498.25125984252" WIDTH="263.25" HEIGHT="115.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Green90%" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 263.25 0 263.25 0 263.25 0 263.25 0 263.25 115.5 263.25 115.5 263.25 115.5 263.25 115.5 0 115.5 0 115.5 0 115.5 0 115.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 263.25 0 263.25 0 263.25 0 263.25 0 263.25 115.5 263.25 115.5 263.25 115.5 263.25 115.5 0 115.5 0 115.5 0 115.5 0 115.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="Wann"/>
+            <ITEXT FONTSIZE="17" FCOLOR="Green90%" CH=": "/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="Samstag, 07.05.2022"/>
+            <breakline/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="            11:00 - 16:00Uhr"/>
+            <para LINESP="18"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="Wo"/>
+            <ITEXT FONTSIZE="17" FCOLOR="Green90%" CH=": "/>
+            <tab FONTSIZE="17" FCOLOR="Green90%"/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="    Ellwanger Str. 7 "/>
+            <breakline/>
+            <ITEXT FONT="Arial Bold" FONTSIZE="17" FCOLOR="Green90%" CH="            90453 Nürnberg"/>
+            <breakline/>
+            <tab FONTSIZE="17" FCOLOR="Green90%"/>
+            <ITEXT FONTSIZE="17" FCOLOR="Green90%" CH="    Neben Vereinsgaststätte "/>
+            <breakline/>
+            <ITEXT FONTSIZE="17" FCOLOR="Green90%" CH="            „Zum Rednitzgrund“"/>
+            <trail LINESP="18"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="101" YPOS="17.2371875704732" WIDTH="318.48094488189" HEIGHT="137.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Cyan" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="2.83464566929134" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 318.481 0 318.481 0 318.481 0 318.481 0 318.481 137.25 318.481 137.25 318.481 137.25 318.481 137.25 0 137.25 0 137.25 0 137.25 0 137.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 318.481 0 318.481 0 318.481 0 318.481 0 318.481 137.25 318.481 137.25 318.481 137.25 318.481 137.25 0 137.25 0 137.25 0 137.25 0 137.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <ITEXT CH="Infotag"/>
+            <trail ALIGN="1" LINESP="15"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="109.414724409448" YPOS="846.485927727954" WIDTH="135.15283464567" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="100.00062992126" YPOS="186.235927727954" WIDTH="306.646616541353" HEIGHT="190" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Green90%" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="64" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Bastion Regular" ISIZE="80" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 306.647 0 306.647 0 306.647 0 306.647 0 306.647 190 306.647 190 306.647 190 306.647 190 0 190 0 190 0 190 0 190 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 306.647 0 306.647 0 306.647 0 306.647 0 306.647 190 306.647 190 306.647 190 306.647 190 0 190 0 190 0 190 0 190 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Bastion Regular" FONTSIZE="37" FCOLOR="Green90%" CH="Wunderwelt "/>
+            <para ALIGN="1" LINESPMode="0" LINESP="64"/>
+            <ITEXT FONT="Bastion Regular" FONTSIZE="37" FCOLOR="Green90%" CH="Wässerwiesen "/>
+            <trail ALIGN="1" LINESPMode="0" LINESP="64"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
